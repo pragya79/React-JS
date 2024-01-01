@@ -1,0 +1,19 @@
+.btn{
+  padding: 7px;
+  border-radius: 8px;
+}
+.App{
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.App img{
+  border-radius: 50%;
+}
+.fa-google{
+  width: 5px;
+  height: 5px;
+  margin-right: 10px;
+}
